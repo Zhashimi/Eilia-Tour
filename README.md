@@ -44,7 +44,7 @@ This project involved designing and developing a website for **Eilia Tour Compan
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/eilia-tour.git
+   git clone https://github.com/zhashimi/eilia-tour.git
    cd eilia-tour
    ```
 2.	Install dependencies:
